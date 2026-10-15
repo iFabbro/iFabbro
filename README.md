@@ -12,7 +12,7 @@ My public work focuses on turning complex workflows into modular, testable softw
 
 - **Quantitative & financial systems** — research workflows, backtesting, portfolio logic, risk controls, execution and monitoring
 - **AI & agent systems** — modular agents, orchestration, MCP-based tooling and AI-assisted workflows
-- **Backend & APIs** — Python services, API layers, data persistence and integrations
+- **Data persistence & tooling** — SQLite-backed storage, MCP server/client tooling, reporting and integrations
 - **Automation & developer tooling** — reproducible workflows, CLI/TUI tools, reporting and operational tooling
 - **System architecture** — separation of research, strategy, risk, execution, state and monitoring concerns
 
@@ -27,8 +27,6 @@ What you can verify in my **public repositories**:
 | AI & Agents | MCP server/client tooling, reinforcement-learning environments (Gymnasium, Stable-Baselines3) |
 | Data | Pandas, NumPy, SciPy, SQLite |
 | Engineering | pytest test suites, GitHub Actions CI, modular architecture, configuration via environment variables |
-
-Also used in **private projects** (not publicly verifiable): FastAPI, PostgreSQL, Docker, SQLModel, LangChain.
 
 ---
 
