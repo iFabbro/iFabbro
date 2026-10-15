@@ -40,6 +40,8 @@ A controlled quantitative trading laboratory focused on the separation of **rese
 
 **Status:** research and supervised-execution project (paper/dry-run), *not* a production trading system.
 
+**Read:** [Case study: a research pipeline that rejects its own strategies](https://github.com/iFabbro/TradingLab/blob/main/docs/CASE_STUDY.md)
+
 ### [STMAA](https://github.com/iFabbro/STMAA) · [![CI](https://github.com/iFabbro/STMAA/actions/workflows/ci.yml/badge.svg)](https://github.com/iFabbro/STMAA/actions/workflows/ci.yml)
 
 A modular trading architecture combining **market data, feature engineering, strategies, portfolio weights, risk overlays, broker integration and monitoring**.
