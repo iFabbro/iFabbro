@@ -11,42 +11,46 @@ My public work focuses on turning complex workflows into modular, testable softw
 ## What I build
 
 - **Quantitative & financial systems** — research workflows, backtesting, portfolio logic, risk controls, execution and monitoring
-- **AI & agent systems** — modular agents, orchestration, RAG/MCP-oriented tooling and AI-assisted workflows
-- **Backend & APIs** — Python services, API layers, data persistence and integrations
+- **AI & agent systems** — modular agents, orchestration, MCP-based tooling and AI-assisted workflows
+- **Data persistence & tooling** — SQLite-backed storage, MCP server/client tooling, reporting and integrations
 - **Automation & developer tooling** — reproducible workflows, CLI/TUI tools, reporting and operational tooling
 - **System architecture** — separation of research, strategy, risk, execution, state and monitoring concerns
 
 ## Core skills
 
+What you can verify in my **public repositories**:
+
 | Area | Technologies / practices |
 |---|---|
-| Languages | **Python**, SQL, Bash |
-| AI & Agents | Agent architectures, RAG, LangChain, MCP, LLM-integrated workflows |
-| Quant & Finance | Backtesting, portfolio construction, risk overlays, market data, execution workflows |
-| Backend | FastAPI, REST APIs, Pydantic, SQLModel, PostgreSQL, SQLite |
-| Data | Pandas, NumPy, technical analysis, structured financial data |
-| Engineering | Testing, modular architecture, configuration management, logging, documentation |
-| DevOps | Git, GitHub Actions, Docker, environment-based configuration |
-
-> Skills listed here reflect technologies and engineering practices demonstrated in my current GitHub projects, not an exhaustive list of everything I have used.
+| Languages | **Python** |
+| Quant & Finance | Backtesting, walk-forward validation, risk gating, portfolio optimisation (PyPortfolioOpt), market data (yfinance, Alpaca) |
+| AI & Agents | MCP server/client tooling, reinforcement-learning environments (Gymnasium, Stable-Baselines3) |
+| Data | Pandas, NumPy, SciPy, SQLite |
+| Engineering | pytest test suites, GitHub Actions CI, modular architecture, configuration via environment variables |
 
 ---
 
 ## Featured work
 
-### [TradingLab](https://github.com/iFabbro/TradingLab)
+### [TradingLab](https://github.com/iFabbro/TradingLab) · [![CI](https://github.com/iFabbro/TradingLab/actions/workflows/ci.yml/badge.svg)](https://github.com/iFabbro/TradingLab/actions/workflows/ci.yml)
 
 A controlled quantitative trading laboratory focused on the separation of **research, risk, execution and persistent system state**.
 
 **Focus:** Python · quantitative research · risk management · execution · testing · system design
 
-### [STMAA](https://github.com/iFabbro/STMAA)
+**Status:** research and supervised-execution project (paper/dry-run), *not* a production trading system.
+
+**Read:** [Case study: a research pipeline that rejects its own strategies](https://github.com/iFabbro/TradingLab/blob/main/docs/CASE_STUDY.md)
+
+### [STMAA](https://github.com/iFabbro/STMAA) · [![CI](https://github.com/iFabbro/STMAA/actions/workflows/ci.yml/badge.svg)](https://github.com/iFabbro/STMAA/actions/workflows/ci.yml)
 
 A modular trading architecture combining **market data, feature engineering, strategies, portfolio weights, risk overlays, broker integration and monitoring**.
 
 **Focus:** Python · quantitative systems · strategy architecture · risk overlays · execution · backtesting
 
-### [financial-micro-saas](https://github.com/iFabbro/financial-micro-saas)
+**Status:** alpha / experimental, paper-trading by default.
+
+### [financial-micro-saas](https://github.com/iFabbro/financial-micro-saas) · [![CI](https://github.com/iFabbro/financial-micro-saas/actions/workflows/ci.yml/badge.svg)](https://github.com/iFabbro/financial-micro-saas/actions/workflows/ci.yml)
 
 A local financial software project exploring **financial data workflows, MCP-based tooling, reporting and reproducible application architecture**.
 
@@ -64,7 +68,7 @@ I prefer systems that are:
 - conservative around credentials, state and execution;
 - documented well enough that another developer can understand the architecture quickly.
 
-For financial and automated systems, I treat **risk controls, observability and failure modes as first-class engineering concerns**, not as features added after the core logic.
+For financial and automated systems, I treat **risk controls and failure modes as first-class engineering concerns**, not as features added after the core logic.
 
 ---
 
@@ -72,20 +76,20 @@ For financial and automated systems, I treat **risk controls, observability and 
 
 - Strengthening quantitative execution architectures
 - Building practical AI/agent tooling around financial workflows
-- Improving testing, CI/CD and observability across my projects
+- Improving testing, linting and CI across my projects
 - Turning selected research projects into clean, reproducible portfolio case studies
 
 ---
 
 ## Selected technologies
 
-`Python` `FastAPI` `Pydantic` `SQLModel` `PostgreSQL` `SQLite` `Pandas` `NumPy` `LangChain` `MCP` `Docker` `GitHub Actions` `REST APIs`
+`Python` `Pandas` `NumPy` `SciPy` `SQLite` `pytest` `GitHub Actions` `MCP` `yfinance` `Alpaca API` `Gymnasium`
 
 ---
 
 ## Contact
 
-GitHub: [@iFabbro](https://github.com/iFabbro)
+Open to **remote** software / quantitative-development roles. Reach me on GitHub: [@iFabbro](https://github.com/iFabbro)
 
 ---
 
