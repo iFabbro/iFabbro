@@ -93,7 +93,7 @@ For financial and automated systems, I treat **risk controls and failure modes a
 
 Based in Milan, Italy · Italian (native), English (technical reading and writing)
 
-Open to **remote** software / quantitative-development roles. Reach me on [www.linkedin.com/in/marco-fabroni-436b2440b) or GitHub: [@iFabbro](https://github.com/iFabbro)
+Open to **remote** software / quantitative-development roles. Reach me on [LinkedIn](www.linkedin.com/in/marco-fabroni-436b2440b) or GitHub: [@iFabbro](https://github.com/iFabbro)
 
 ---
 
