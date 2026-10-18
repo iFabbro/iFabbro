@@ -1,8 +1,8 @@
 # Marco Fabroni
 
-### Software Engineer · AI Systems · Quantitative & Financial Software
+### Python Developer · Quantitative Research & Financial Software
 
-I design and build software systems that combine **Python, AI/agent architectures, financial data, quantitative research, automation, and risk-aware execution**.
+I design and build software systems that combine **Python, financial data, quantitative research, automation, and risk-aware execution**.
 
 My public work focuses on turning complex workflows into modular, testable software rather than building isolated prototypes.
 
@@ -11,7 +11,7 @@ My public work focuses on turning complex workflows into modular, testable softw
 ## What I build
 
 - **Quantitative & financial systems** — research workflows, backtesting, portfolio logic, risk controls, execution and monitoring
-- **AI & agent systems** — modular agents, orchestration, MCP-based tooling and AI-assisted workflows
+- **AI-assisted tooling** — MCP-based tooling and AI-assisted workflows around financial data
 - **Data persistence & tooling** — SQLite-backed storage, MCP server/client tooling, reporting and integrations
 - **Automation & developer tooling** — reproducible workflows, CLI/TUI tools, reporting and operational tooling
 - **System architecture** — separation of research, strategy, risk, execution, state and monitoring concerns
@@ -37,6 +37,8 @@ What you can verify in my **public repositories**:
 A controlled quantitative trading laboratory focused on the separation of **research, risk, execution and persistent system state**.
 
 **Focus:** Python · quantitative research · risk management · execution · testing · system design
+
+**Result worth reading:** a strategy with a +45.65% net out-of-sample return was rejected by the research protocol after comparison with buy-and-hold (+101.26% over the same days).
 
 **Status:** research and supervised-execution project (paper/dry-run), *not* a production trading system.
 
@@ -75,7 +77,7 @@ For financial and automated systems, I treat **risk controls and failure modes a
 ## Currently focusing on
 
 - Strengthening quantitative execution architectures
-- Building practical AI/agent tooling around financial workflows
+- Building practical tooling around financial workflows
 - Improving testing, linting and CI across my projects
 - Turning selected research projects into clean, reproducible portfolio case studies
 
@@ -89,7 +91,9 @@ For financial and automated systems, I treat **risk controls and failure modes a
 
 ## Contact
 
-Open to **remote** software / quantitative-development roles. Reach me on GitHub: [@iFabbro](https://github.com/iFabbro)
+Based in Milan, Italy · Italian (native), English (technical reading and writing)
+
+Open to **remote** software / quantitative-development roles. Reach me on [www.linkedin.com/in/marco-fabroni-436b2440b) or GitHub: [@iFabbro](https://github.com/iFabbro)
 
 ---
 
